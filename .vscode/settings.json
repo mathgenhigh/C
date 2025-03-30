@@ -1,0 +1,15 @@
+{
+  "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+  "SDL2":
+  {
+    "files.exclude": {
+      "**/SDL2": true
+    }
+  },
+  "files.associations": {
+    "stdio.h": "c",
+    "sdl.h": "c",
+    "windows.h": "c"
+  },
+  "zencoder.enableRepoIndexing": true
+}
